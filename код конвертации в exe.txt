@@ -1,0 +1,10 @@
+﻿Для установки модуля:
+pip install pyinstaller
+
+Для запаковки:
+pyinstaller -F(без разбития на папки) -i{icon}(указываем путь к иконке) {name file}
+pyinstaller --noconsole -F -i availability\1.ico interface_project.py
+pyinstaller interface_project.py -Fw --splash "reports_stacionar\lazy.png"
+
+C:\Users\pavlov\Desktop\python\reports_stacionar\Lunarbird.ico
+pyinstaller interface_project.py -i "reports_stacionar\images\Lunarbird.ico" -Fw --splash "reports_stacionar\lazy.png"

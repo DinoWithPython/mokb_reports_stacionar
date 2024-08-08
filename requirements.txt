@@ -1,0 +1,10 @@
+altgraph==0.17.3
+Babel==2.11.0
+et-xmlfile==1.1.0
+openpyxl==3.1.1
+pefile==2023.2.7
+pyinstaller==5.8.0
+pyinstaller-hooks-contrib==2023.0
+pytz==2022.7.1
+pywin32-ctypes==0.2.0
+tkcalendar==1.6.1
